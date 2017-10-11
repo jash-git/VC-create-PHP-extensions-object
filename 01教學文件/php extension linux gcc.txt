@@ -1,0 +1,2 @@
+﻿http://php.webtutor.pl/en/2011/07/07/how-to-create-php-extensions-in-c-part-i-adding-simple-function/
+http://blog.ring.idv.tw/comment.ser?i=210
